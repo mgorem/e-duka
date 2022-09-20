@@ -5,7 +5,7 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 export const firebaseConfig = {
-  apiKey: "AIzaSyBo0e60jWRRdHA6E4BRGpbCCIGKryzLVxo",
+  apiKey: "YOUR_FIREBASE_APP_KEY",
   authDomain: "mgsfineline.firebaseapp.com",
   databaseURL: "https://mgsfineline-default-rtdb.firebaseio.com",
   projectId: "mgsfineline",
